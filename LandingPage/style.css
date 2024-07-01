@@ -1,0 +1,181 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.container {
+  height: 500px;
+  width: 100%;
+}
+img {
+  height: 500px;
+  width: 100%;
+  background-size: cover;
+  margin-top: -10px;
+  margin-left: -5px;
+  margin-right: 10px;
+}
+.w1 {
+  font-size: 60px;
+  color: white;
+  margin-top: -450px;
+  margin-left: 90px;
+  letter-spacing: 150px;
+}
+.p1 {
+  font-size: 50px;
+  color: white;
+  font-weight: 600;
+  margin-left: 350px;
+}
+.box-2 {
+  margin-top: 100px;
+  display: flex;
+}
+.img-1 {
+  height: 320px;
+  width: 300px;
+
+  background-color: lightcyan;
+}
+.i1 {
+  height: 250px;
+  width: 300px;
+  padding: 10px;
+  margin-left: -10px;
+}
+.img-2 {
+  height: 320px;
+  width: 300px;
+
+  margin-left: 30px;
+  background-color: lightcyan;
+}
+.i2 {
+  height: 250px;
+  width: 300px;
+  padding: 10px;
+  margin-left: -10px;
+}
+.img-3 {
+  height: 320px;
+  width: 300px;
+
+  margin-left: 30px;
+  background-color: lightcyan;
+}
+.i3 {
+  height: 250px;
+  width: 300px;
+  padding: 10px;
+  margin-left: -10px;
+}
+.img-4 {
+  height: 320px;
+  width: 300px;
+
+  margin-left: 30px;
+  background-color: lightcyan;
+}
+.i4 {
+  height: 200px;
+  width: 300px;
+  padding: 10px;
+  margin-left: -10px;
+}
+pre {
+  text-align: center;
+  font-size: 30px;
+  margin-top: -2px;
+}
+/*----------box-3----------*/
+
+.box-3 {
+  margin-top: 100px;
+  display: flex;
+}
+.img-11 {
+  height: 320px;
+  width: 300px;
+
+  background-color: lightcyan;
+}
+.i11 {
+  height: 250px;
+  width: 300px;
+  padding: 10px;
+  margin-left: -10px;
+}
+.img-22 {
+  height: 320px;
+  width: 300px;
+
+  margin-left: 30px;
+  background-color: lightcyan;
+}
+.i22 {
+  height: 250px;
+  width: 300px;
+  padding: 10px;
+  margin-left: -10px;
+}
+.img-33 {
+  height: 320px;
+  width: 300px;
+
+  margin-left: 30px;
+  background-color: lightcyan;
+}
+.i33 {
+  height: 250px;
+  width: 300px;
+  padding: 10px;
+  margin-left: -10px;
+}
+.img-44 {
+  height: 320px;
+  width: 300px;
+
+  margin-left: 30px;
+  background-color: lightcyan;
+}
+.i44 {
+  height: 200px;
+  width: 300px;
+  padding: 10px;
+  margin-left: -10px;
+}
+pre {
+  text-align: center;
+  font-size: 30px;
+  margin-top: -2px;
+}
+/*----------------box-4----*/
+.box-4 {
+  margin-top: 100px;
+  display: flex;
+}
+/*------------------box-5-----------*/
+.box-5 {
+  margin-top: 100px;
+  display: flex;
+}
+.img-1:hover {
+  height: 320px;
+  width: 300px;
+}
+h4 {
+  display: none;
+}
+.footer {
+  height: 60px;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+  margin-top: 50px;
+}
+.p2 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 5px;
+}
+
