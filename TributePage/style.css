@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.container {
+  background: url("o1.jpg");
+  height: 500px;
+  width: 1350px;
+
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: black;
+  background-position: top center;
+}
+.p1 {
+  margin-top: -300px;
+  height: 80px;
+  width: 800px;
+  font-size: 30px;
+  background-color: gray;
+  margin-left: 300px;
+  opacity: 0.5;
+  padding: 20px;
+}
+p {
+  font-size: 35px;
+  margin-left: 70px;
+}
